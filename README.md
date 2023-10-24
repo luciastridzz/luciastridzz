@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @luciastridzz
-- 👀 I’m interested in algorithms and web development.
-- 🌱 I’m currently studying algorithms and Rust programming language.
+- 👋 Hi, I’m @luciastridzz.
+- 👩🏻 I'm a transgender woman who's under HRT.
+- 👀 I’m interested in web techniques.
 - 💞️ I’m looking to collaborate on ts/js open-source projects.
 - 📫 How to reach me: zzluciastrid@gmail.com
 
